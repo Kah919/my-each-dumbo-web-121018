@@ -9,5 +9,5 @@ def my_each(words) # put argument(s) here
 end
 
 my_each(words) do |i|
-  puts i 
+  puts i
 end
