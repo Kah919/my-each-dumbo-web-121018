@@ -5,5 +5,5 @@ def my_each(ele) # put argument(s) here
 
     i += 1
   end
-
+  return ele
 end
