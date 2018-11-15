@@ -7,3 +7,7 @@ def my_each(words) # put argument(s) here
   end
   return words
 end
+
+my_each(words) do |i|
+  puts i 
+end
