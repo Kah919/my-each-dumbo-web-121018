@@ -8,7 +8,7 @@ def my_each(words) # put argument(s) here
   return words
 end
 
-words = ["a", "b", "c"]
-my_each(words) do |i|
+letters = ["a", "b", "c"]
+my_each(letters) do |i|
   puts i
 end
